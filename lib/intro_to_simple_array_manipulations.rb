@@ -26,6 +26,10 @@ def using_concat(arr1, arr1)
   arr1.concat(arr2)
 end
 
+def using_insert(array, ele)
+  array.insert(ele)
+end
+
 def using_flatten(array)
   array.flatten
 end
