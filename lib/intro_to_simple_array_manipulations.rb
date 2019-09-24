@@ -27,7 +27,7 @@ def using_concat(arr1, arr1)
 end
 
 def using_insert(array, ele)
-  array.insert(ele)
+  array[4].insert(ele)
 end
 
 def using_flatten(array)
