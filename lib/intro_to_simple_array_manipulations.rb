@@ -30,10 +30,3 @@ def using_flatten(array)
   array.flatten
 end
 
-def using_shift(array)
-  array.shift
-end
-
-def using_(array)
-  array.shift
-end
